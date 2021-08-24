@@ -1,2 +1,2 @@
 # kineta-wiki
-kineta wiki is a wiki developed in golang the wiki features project documentations and tutorials 
+This is a simple restapi that i developed in go.The wiki has articles that are saved and queried from a mysql database
